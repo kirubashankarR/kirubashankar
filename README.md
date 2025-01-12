@@ -48,10 +48,10 @@
 
 ---
 
-### 🏆 **Achievements**
-- 🏅 **Hackathon Winner**: AI & ML Challenge for Object Detection.
-- 📜 Published **[Paper/Blog](#)** on [Topic].
-- 🌐 Contributed to **[Open Source Project](#)**.
+### 📊 **My Contributions in 2024**
+<div align="center">
+  <img src="./path_to_image/image.png" alt="GitHub Contribution Graph" />
+</div>
 
 ---
 
