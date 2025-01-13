@@ -60,8 +60,8 @@
   <a href="https://twitch.tv/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch Logo" />>
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
+  <a href="mailto:221501508@rajalakshmi.edu.in" target="_blank">
+    <img src="https://mail.google.com/mail/u/0/?hl=en#inbox" height="35" alt="Gmail Logo" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
