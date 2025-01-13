@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role/Profession], from [Your Location]</h2>
+<h2 align="left">Hi 👋! My name is [kiruba shankar R] and I'm a [IT ENGINEER ], from [chennai]</h2>
 
 ---
 
