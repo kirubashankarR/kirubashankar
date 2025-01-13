@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [kiruba shankar R] and I'm a [IT ENGINEER ], from [chennai]</h2>
+<h2 align="left">Hi 👋! My name is kiruba shankar R and I'm a IT ENGINEER , from chennai</h2>
 
 ---
 
@@ -10,10 +10,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🔭 I’m currently working on **[Project Name](#)**
-- 🌱 I’m learning **[Technology/Skill]**
+- 🔭 I’m currently working on **[yolov8 IN CNN](#)**
+- 🌱 I’m learning **[React JS]**
 - 💡 Fun fact: **[Your Fun Fact]**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **[221501508@rajalakshmi.edu.in]**
 - ⚡ Interests: **[Your Interests]**
 
 ---
